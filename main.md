@@ -19,3 +19,5 @@
 А это математическая формула: $\bar{x}=\frac{\sum_{i=1}^n x_i}{n}$
 
 [Это сайт нашего университета](http://mguu.ru)
+
+![image](https://cdn.bfm.ru/news/photopreviewextralarge/2024/01/17/vlozhit.jpg)
